@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Algo_Finale">
+    <output-path>$PROJECT_DIR$/out/artifacts/Algo_Finale</output-path>
+    <root id="root">
+      <element id="archive" name="Algo_Finale.jar">
+        <element id="module-output" name="Algo_Finale" />
+      </element>
+    </root>
+  </artifact>
+</component>
